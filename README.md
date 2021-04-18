@@ -9,7 +9,7 @@ It was investigated to what extent a cost-average effect can occur while followi
 # Python Scripts
 
  ## exploratory_data_analysis.py
- EDA of market data: first visualizations and data transformation (e.g. currency conversion).
+ EDA of market data: first visualizations and data transformations (e.g. currency conversion).
 
  ## main_functions.py
  Numerous useful functions that were employed in this analysis. It can be seen as toolbox of this projects. It is imported by `signal_analysis_class.py`.
