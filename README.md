@@ -12,7 +12,7 @@ It was investigated to what extent a cost-average effect can occur while followi
  EDA of market data: first visualizations and data transformations (e.g. currency conversion).
 
  ## main_functions.py
- Numerous useful functions that were employed in this analysis. It can be seen as toolbox of this projects. It is imported by `signal_analysis_class.py`.
+ Numerous useful functions that were employed in this analysis. It can be seen as toolbox of this project. It is imported by `signal_analysis_class.py`.
 
  ## signal_analysis_class.py
  Forms a class module employing the above-mentioned toolbox `main_functions.py`. This step helped to automate the process of analyzing different strategies, markets and trading rhythms.
